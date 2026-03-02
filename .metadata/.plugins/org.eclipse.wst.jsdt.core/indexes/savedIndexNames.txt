@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\All program\Rental_Price_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+672711310.index
